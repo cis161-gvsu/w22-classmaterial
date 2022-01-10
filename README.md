@@ -31,7 +31,7 @@ schedule are tentative and subject to change.
 
 | Week | Date          | Topics | Special Notes |
 | ---- | ------------- | ------ | --------- |
-|  01  | 01/10 - 01/14 | introduction, variables, operators, expressions | |
+|  01  | 01/10 - 01/14 | introduction, variables, operators, expressions | [Fill out course survey](https://forms.gle/4CKxEucnGFiHCFHu9) |
 |  02  | 01/17 - 01/21 | no class 01/17 (MLK day) <br> notebooks and comments, functions |  |
 |  03  | 01/24 - 01/28 | conditionals, math, built-in functions | |
 |  04  | 01/31 - 02/04 | iteration | project ideas due |
