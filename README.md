@@ -32,8 +32,8 @@ schedule are tentative and subject to change.
 | Week | Date          | Topics | Special Notes | Activity |
 | ---- | ------------- | ------ | --------- | ------- |
 |  01  | 01/10 - 01/14 | [introduction, variables, operators, expressions](https://www.prairielearn.org/pl/course_instance/129003/assessment/2316030) | [Fill out course survey](https://forms.gle/4CKxEucnGFiHCFHu9) | [week 1 activity](https://www.prairielearn.org/pl/course_instance/129003/assessment/2316000) <br> [week 1 lab](https://www.prairielearn.org/pl/course_instance/129003/assessment/2316422) |
-|  02  | 01/17 - 01/21 | no class 01/17 (MLK day) <br> [notebooks and comments, functions](https://www.prairielearn.org/pl/course_instance/129003/assessment/2316476) |  | [week 2 activity](https://www.prairielearn.org/pl/course_instance/129003/assessment/2316475) |
-|  03  | 01/24 - 01/28 | conditionals, math, built-in functions | | |
+|  02  | 01/17 - 01/21 | no class 01/17 (MLK day) <br> [notebooks and comments, functions](https://www.prairielearn.org/pl/course_instance/129003/assessment/2316476) |  | [week 2 activity](https://www.prairielearn.org/pl/course_instance/129003/assessment/2316475) <br> [week 2 lab](https://www.prairielearn.org/pl/course_instance/129003/assessment/2316753) |
+|  03  | 01/24 - 01/28 | [conditionals, math, built-in functions](https://www.prairielearn.org/pl/course_instance/129003/assessment/2316761) | | [week 3 activity](https://www.prairielearn.org/pl/course_instance/129003/assessment/2316760) |
 |  04  | 01/31 - 02/04 | iteration | project ideas due | |
 |  05  | 02/07 - 02/11 | random module | Exam 1 (exact day(s) TBD) | |
 |  06  | 02/14 - 02/18 | lists | | |
