@@ -38,9 +38,9 @@ schedule are tentative and subject to change.
 |  05  | 02/07 - 02/11 | [random module](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317122) | Exam 1 (Monday and Wednesday) | [week 5 activity - optional](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317121) <br> [week 5 lab](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317294) |
 |  06  | 02/14 - 02/18 | [lists](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317330) | | [week 6 activity](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317329) <br> [week 6 lab](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317547) |
 |  07  | 02/21 - 02/25 | [references, strings](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317557) | | [week 7 activity](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317556) <br> [week 7 lab](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317656) |
-|  08  | 02/28 - 03/04 | [random module with lists, files](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317671) | | [week 8 activity](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317670) |
+|  08  | 02/28 - 03/04 | [random module with lists, files](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317671) | | [week 8 activity](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317670) <br> [week 8 lab](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317739) |
 |  09  | 03/07 - 03/11 | no class (spring break) | | |
-|  10  | 03/14 - 03/18 | tuples | project check-in due | |
+|  10  | 03/14 - 03/18 | [tuples](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317808) | project check-in due | [week 9 activity](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317807) |
 |  11  | 03/21 - 03/25 | dictionaries |  | |
 |  12  | 03/28 - 04/01 | visualization (matplotlib, seaborn) | Exam 2 (exact day(s) TBD) | |
 |  13  | 04/04 - 04/08 | numpy |  | |
