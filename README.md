@@ -44,6 +44,6 @@ schedule are tentative and subject to change.
 |  11  | 03/21 - 03/25 | [dictionaries](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317929) | [project check-in due Sunday, March 27 @ 11:59pm](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317928)  | [week10 activity](https://www.prairielearn.org/pl/course_instance/129003/assessment/2317927) |
 |  12  | 03/28 - 04/01 | [visualization (matplotlib)](https://www.prairielearn.org/pl/course_instance/129003/assessment/2318162) | Exam 2 (Monday and Wednesday) | [week11 lab](https://www.prairielearn.org/pl/course_instance/129003/assessment/2318204) |
 |  13  | 04/04 - 04/08 | [numpy](https://www.prairielearn.org/pl/course_instance/129003/assessment/2318243) |  | [week12 activity](https://www.prairielearn.org/pl/course_instance/129003/assessment/2318241) <br> [lab12](https://www.prairielearn.org/pl/course_instance/129003/assessment/2318334) |
-|  14  | 04/11- 04/15 | csv module, applications |  | |
-|  15  | 04/18 - 04/22 | scipy, applications | | |
+|  14  | 04/11- 04/15 | [csv module, error in computational science, numpy wrap-up](https://www.prairielearn.org/pl/course_instance/129003/assessment/2318345) | | |
+|  15  | 04/18 - 04/22 | [scipy, applications](https://www.prairielearn.org/pl/course_instance/129003/assessment/2318346) | | |
 |  16  | 04/25 - 04/29 | finals week | Course Projects Due / Presentations Monday, April 25 12:00pm-1:50pm | - |
